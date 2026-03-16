@@ -9,7 +9,7 @@ An independent data analysis of adolescent gaming behavior in the United Kingdom
 
 ## The Question
 
-What actually predicts dysregulated gaming in adolescents — and is it what we assume it is?
+What actually predicts dysregulated gaming in adolescents, and is it what we assume it is?
 
 Everyone has an opinion. Parents worry about screen time, health organizations debate diagnostic criteria, headlines oscillate between alarm and reassurance. This project cuts through the noise and looks at the data directly.
 
